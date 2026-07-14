@@ -35,6 +35,3 @@ Custom SpinLock
 
 Manual memory management (placement new, reinterpret_cast)
 
-=======
-# Custom-Memory-Pool-Allocator
->>>>>>> c1e24c44a512cb57f5472cbe8216a5024aaf9fbd
