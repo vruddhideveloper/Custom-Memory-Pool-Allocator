@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 High-Performance Thread-Safe Memory Pool with Smart Reference Counting in C++
 Description:
 This project implements a custom memory pool manager in C++ designed for high-performance, multithreaded environments where dynamic memory allocation overhead and contention can significantly affect system performance. The memory pool leverages pre-allocated nodes, manual memory reuse, and thread-safe access using a lightweight spinlock mechanism.
@@ -35,3 +36,6 @@ Custom SpinLock
 
 Manual memory management (placement new, reinterpret_cast)
 
+=======
+# Custom-Memory-Pool-Allocator
+>>>>>>> c1e24c44a512cb57f5472cbe8216a5024aaf9fbd
